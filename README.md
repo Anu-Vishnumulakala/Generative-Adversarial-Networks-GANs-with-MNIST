@@ -1,6 +1,6 @@
 # Generative-Adversarial-Networks-GANs-with-MNIST
 Built a Generative Adversarial Network (GAN) using Keras and TensorFlow to generate realistic handwritten digits from the MNIST dataset.
-### **Overview**
+## **Overview**
 A GAN consists of:
 - **Generator**: Creates fake images from random noise
 - **Discriminator**: Determines if an image is real (from dataset) or fake (from generator)
